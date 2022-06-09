@@ -7,7 +7,7 @@ Repository containing data science projects completed by me for academic, self l
 ### Machine Learning
   - [Machine Learning Explainer Dashboard](https://machine-learn-ex.herokuapp.com/): A dashboard to interpret machine learning models and tuning of hyperparameters. Interactive features provides to visualize the effect of hyperparmaters and make machine learning easier. 
   - [Classification: Detecting Diabetic in Early Stage](https://github.com/myothida/diabetic-detection-app.git): A model to detect the Diabetic using different features such as Age, weight, height and blood pressure. A total of six different classification algorithms are used to evaluate the performance of the model. 
-  - [Regression: Predicting Fuel Price](Link): A model to predict the fuel price using various features..
+  - [Regression: Predicting Housing Price](Link): A model to predict the housing price (residential homes in Boston Housing dataset) using various features..Advanced regression techniques (random forest and gradient boosting) are deployed to predict the housing price. 
   - [Regression: Predicting Number of Deceased](Link): A model to predict the number of decased in Myanmar. 
 ### Data Analysis and Visualisation
   - [Student Performance Data Analysis](https://da-grade-bhutan.herokuapp.com/): Dashboard for visualizing the performance of the students (Bhutan - Data Analytic Class 2021-2022). 
