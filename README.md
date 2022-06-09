@@ -11,6 +11,6 @@ Repository containing data science projects completed by me for academic, self l
   - [Regression: Predicting Car Prices](Link): A model to predict the value of a second hand car in using various statistical analysis tools. Identified the best price that a client can sell their car utilizing machine learning.
 
 ### Data Analysis and Visualisation
-  - [Student Performance Data Analysis](https://github.com/myothida/DA_Students_Grade.git): Dashboard for visualizing the performance of the students (Bhutan - Data Analytic Class 2021-2022). 
+  - [Student Performance Data Analysis](https://da-grade-bhutan.herokuapp.com/): Dashboard for visualizing the performance of the students (Bhutan - Data Analytic Class 2021-2022). 
   - [Explorary Analysis : State of the Art Technology](https://github.com/myothida/survey_dashboard.git): Explorary Analysis on the sate-of-the-art technologies in Data Science (Kaggle data-set : Data Science Survey 2019).
   - [Diagnostic Analytics : Traffic Offences Analysis](https://github.com/myothida/repeated_offences.git): In-depth data analysis, extracting insights and reporting to measure the cuases behind the increased number of traffic offences. 
