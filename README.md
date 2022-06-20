@@ -11,6 +11,7 @@ Repository containing data science projects completed by me for academic, self l
   - [Regression: Predicting Housing Price](Link): A model to predict the housing price (residential homes in Boston Housing dataset) using various features..Advanced regression techniques (random forest and gradient boosting) are deployed to predict the housing price. 
   - [Regression: Predicting Number of Deceased](Link): A model to predict the number of decased in Myanmar. 
 ### Data Analysis and Visualisation
+  - [Traffic Violation Analysis](https://github.com/myothida/TrafficViolationAnalysis.git): This project analyse the traffic violation data and visualize the insight. 
   - [Student Performance Data Analysis](https://da-grade-bhutan.herokuapp.com/): Dashboard for visualizing the performance of the students (Bhutan - Data Analytic Class 2021-2022). 
   - [Explorary Analysis : State of the Art Technology](https://github.com/myothida/survey_dashboard.git): Explorary Analysis on the sate-of-the-art technologies in Data Science (Kaggle data-set : Data Science Survey 2019).
   - [Diagnostic Analytics : Analysis on the situation of Myanmar](link) In-depth data analysis, extracting insights and reporting to measure the cuases behind the increased number of deceased. 
