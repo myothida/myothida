@@ -14,3 +14,6 @@ Repository containing data science projects completed by me for academic, self l
   - [Student Performance Data Analysis](https://da-grade-bhutan.herokuapp.com/): Dashboard for visualizing the performance of the students (Bhutan - Data Analytic Class 2021-2022). 
   - [Explorary Analysis : State of the Art Technology](https://github.com/myothida/survey_dashboard.git): Explorary Analysis on the sate-of-the-art technologies in Data Science (Kaggle data-set : Data Science Survey 2019).
   - [Diagnostic Analytics : Analysis on the situation of Myanmar](link) In-depth data analysis, extracting insights and reporting to measure the cuases behind the increased number of deceased. 
+
+### Data Analysis and Visualisation
+- [Python Programming]([https://da-grade-bhutan.herokuapp.com/](https://github.com/myothida/PythonProgramming.git)): This repo includes the assignments and lectures conducted in the Python Programming Course. This Course teaches you programming in general as well as Python fundamentals for data science. This course provides you knowledge and skills to create basic programs to work with real data and solve real-world problems in Python. You will gain a strong foundation for more advanced learning that requires the Python Programming knowledge.
