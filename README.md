@@ -5,9 +5,10 @@
 Repository containing data science projects completed by me for academic, self learning, and hobby purposes.
 
 ### Machine Learning
-  - [Machine Learning Explainer Dashboard](https://github.com/myothida/machinelearningEx.git): A dashboard to interpret machine learning models and tuning of hyperparameters. Interactive features provides to visualize the effect of hyperparmaters and make machine learning easier. 
+  - [Sentiment Analysis: Feedback Analyzer](https://github.com/myothida/03_FeedbackAnalyzer.git):This repository contains a Python-based feedback analyzer that uses machine learning techniques to process and classify feedback into various sentiment categories, such as positive, negative, and neutral. The project is still in-progress, with ongoing exploration of different machine learning and deep learning models to enhance the accuracy and capabilities of the feedback analyzer.
   - [Classification: Detecting Diabetic : Model Developing](https://github.com/myothida/diabetic-detection-app.git): Develop ML model to detect diabetic using different features. Two data-sets (Well-known Pima Indians Diabetes Database and new data set that combined both Behaviour-based features and demographic features such as age, weight, height and blood pressure. 
-  - [Regression: Predicting Housing Price](https://github.com/myothida/RentalPriceEstimation.git): A model to predict the house rental price using various features..Advanced regression techniques (random forest and gradient boosting) are deployed to predict the housing price. 
+  - [Regression: Predicting Housing Price](https://github.com/myothida/RentalPriceEstimation.git): A model to predict the house rental price using various features..Advanced regression techniques (random forest and gradient boosting) are deployed to predict the housing price.
+    
 ### [Data Analysis and Visualisation](https://github.com/myothida/DataAnalytics_Projects.git)
   - [Traffic Violation Analysis]([https://github.com/myothida/TrafficViolationAnalysis.git](https://github.com/myothida/DataAnalytics_Projects.git)): This project analyse the traffic violation data and visualize the insight. 
   - [Student Performance Data Analysis](https://github.com/myothida/DA_Students_Grade.git)): Dashboard for visualizing the performance of the students (Bhutan - Data Analytic Class 2021-2022). 
