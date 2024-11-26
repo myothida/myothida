@@ -8,8 +8,8 @@ Repository containing data science projects completed by me for academic, self l
   - [Machine Learning Explainer Dashboard](https://github.com/myothida/machinelearningEx.git): A dashboard to interpret machine learning models and tuning of hyperparameters. Interactive features provides to visualize the effect of hyperparmaters and make machine learning easier. 
   - [Classification: Detecting Diabetic : Model Developing](https://github.com/myothida/diabetic-detection-app.git): Develop ML model to detect diabetic using different features. Two data-sets (Well-known Pima Indians Diabetes Database and new data set that combined both Behaviour-based features and demographic features such as age, weight, height and blood pressure. 
   - [Regression: Predicting Housing Price](https://github.com/myothida/RentalPriceEstimation.git): A model to predict the house rental price using various features..Advanced regression techniques (random forest and gradient boosting) are deployed to predict the housing price. 
-### Data Analysis and Visualisation
-  - [Traffic Violation Analysis](https://github.com/myothida/TrafficViolationAnalysis.git): This project analyse the traffic violation data and visualize the insight. 
+### Data Analysis and Visualisatio[nhttps://github.com/myothida/DataAnalytics_Projects.git]
+  - [Traffic Violation Analysis]([https://github.com/myothida/TrafficViolationAnalysis.git](https://github.com/myothida/DataAnalytics_Projects.git)): This project analyse the traffic violation data and visualize the insight. 
   - [Student Performance Data Analysis](https://github.com/myothida/DA_Students_Grade.git)): Dashboard for visualizing the performance of the students (Bhutan - Data Analytic Class 2021-2022). 
   - [Explorary Analysis : State of the Art Technology](https://github.com/myothida/survey_dashboard.git): Explorary Analysis on the sate-of-the-art technologies in Data Science (Kaggle data-set : Data Science Survey 2019).
 
