@@ -10,6 +10,8 @@ Repository containing data science projects completed by me for academic, self l
   - [Regression: Predicting Housing Price](https://github.com/myothida/RentalPriceEstimation.git): A model to predict the house rental price using various features..Advanced regression techniques (random forest and gradient boosting) are deployed to predict the housing price.
     
 ### [Data Analysis and Visualisation](https://github.com/myothida/DataAnalytics_Projects.git)
+- This repository (https://github.com/myothida/DataAnalytics_Projects.git) contains 7 different data analytics projects focused on analyzing various aspects of student performance and engagement in online courses, as well as evaluating the effectiveness of different training programs. The projects utilize machine learning techniques to derive insights from the data.
+
 
 ### Teaching Aids
 - [Python Programming](https://github.com/myothida/PythonProgramming.git): This repo includes the assignments and lectures conducted in the Python Programming Course. This Course teaches you programming in general as well as Python fundamentals for data science. This course provides you knowledge and skills to create basic programs to work with real data and solve real-world problems in Python. You will gain a strong foundation for more advanced learning that requires the Python Programming knowledge.
